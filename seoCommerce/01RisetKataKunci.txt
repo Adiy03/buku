@@ -1,0 +1,146 @@
+MENGAPA SEO PENTING UNTUK ECOM WEBSITE
+v 44% orang memulai belanja online dengan google search
+v 37% traffic dari halaman ecommerce datang dari mesin pencari seperti google
+v 23% order dari ecommerce terikat dengan organic traffic
+
+dengan begitu berikut strateginya utk seo ecommerce
+
+1. Riset Kata Kunci ecommerce
+
+Riset kata kunci menjadi pondasi dari Kampanye SEO, kenapa?
+
+karena riset kata kunci memberikan informasi dari segala tugas yang berkaitan dengan yang akan dibuat pada website e-commerce
+
+misal: berpengaruh pada bagan produk & kategori halaman website
+
+Dan berikut cara yang tepat untuk menemukan yang dicari dari pelanggan anda, dan juga cara memilih kata kunci untuk situs Anda 
+
+
+== Menemukan Kata Kunci untuk Produk dan  Kategori Halaman
+
+a) Ecommerce sugest, ecom mungkin adalah pesaing anda, tapi itu juga merupakan situs e-niaga onlie yang besar, yang menjadikannya tambang emas kata kunci produk
+
+Berikut cara memanfaatkan ecommerce untuk penelitian kata kunci:
+
+Pertama, pergilah ke ecommerce dan masukkan kata kunci yang menjelaskan salah satu produk Anda.
+
+Ketika Anda melakukannya, ecommerce secara otomatis akan mencantumkan saran seputar kata kunci itu.
+
+Kata kunci yang disarankan Amazon cenderung sangat bertarget (juga dikenal sebagai kata kunci ekor panjang). 
+
+Kata kunci ekor panjang tidak hanya cenderung menghasilkan konversi yang lebih baik daripada istilah yang lebih pendek, tetapi juga biasanya tidak terlalu kompetitif.
+
+Kiat Pro: Amazon terkadang menyarankan kategori di atas saran kata kunci. Ini membuat kata kunci yang bagus untuk digunakan untuk halaman kategori.
+
+
+b} Keyword Tool Dominator (KTD)
+
+merupakan situs penyedia jasa riset kata kunci,
+
+KTD memberi Anda lebih banyak ide kata kunci
+
+
+c) Kategori ecommerce (dan Pesaing)
+
+Kiat Pro: Jika kategori Anda unik dalam beberapa hal, pastikan untuk menyertakan fitur unik itu dalam kata kunci Anda. 
+
+Misalnya, Anda dapat mengubah kata kunci Amazon “makanan anjing kering” menjadi “makanan anjing kering yang sehat” atau “makanan anjing kering mentah”.
+
+Kata kunci ini akan menjadi kurang kompetitif dan lebih bertarget daripada versi luas dari istilah tersebut.
+
+d) Wikipedia
+
+Sama seperti halaman kategori di situs pesaing e-niaga Anda, 
+
+Wikipedia mengatur berbagai hal berdasarkan kata kunci dan kategori.
+
+Dengan kata lain: mereka telah melakukan kerja keras untuk Anda!
+
+e) semrush 
+
+SEMrush tidak menghasilkan ide kata kunci baru berdasarkan kata kunci awal. Sebagai gantinya, ini menunjukkan kata kunci yang sudah diperingkat oleh pesaing Anda.
+
+
+f) Google Keyword Planner
+
+Meskipun GKP adalah alat kata kunci yang layak, itu tidak terlalu bagus dalam menghasilkan ide kata kunci yang unik.
+
+Misalnya, jika Anda memasukkan kata kunci halaman kategori seperti “makanan anjing organik” ke dalam GKP, GKP akan memunculkan variasi yang sangat mirip dari istilah tersebut:
+
+
+seteleh Menemukan Kata Kunci untuk Produk dan  Kategori Halaman, kini saatnya untuk dalam tahapan
+
+
+== Cara Memilih Kata Kunci untuk Halaman Produk dan Kategori E-niaga
+
+Sekarang setelah Anda memiliki daftar kata kunci potensial, Anda mungkin bertanya-tanya:
+
+Kata kunci mana yang harus saya pilih?
+
+Jawabannya? Gunakan daftar periksa 4 langkah ini untuk mengidentifikasi kata kunci terbaik untuk situs e-niaga Anda.
+
+Volume Pencarian #1
+
+Ini (sejauh ini) metrik yang paling penting saat mengevaluasi riset kata kunci
+
+pada akhirnya :
+
+Jika tidak ada yang mencari kata kunci itu, tidak masalah seberapa baik konversinya atau seberapa kompetitif halaman pertama Google.
+
+
+#2 Kesesuaian Kata Kunci-Produk
+
+Ini adalah salah satu yang besar. Katakanlah Anda menemukan kata kunci yang mendapat banyak pencarian. Pasti juara kan?
+
+Yah… tidak juga.
+
+Itu karena kata kunci mungkin tidak cocok dengan apa yang dijual situs Anda.
+
+Jika kata kunci yang Anda pilih sedikit berlebihan dibandingkan dengan apa yang Anda jual di situs e-niaga Anda, orang yang menelusuri istilah tersebut tidak akan berkonversi.
+
+Jadi sebelum Anda melanjutkan ke dua tahap berikutnya dalam proses ini, periksa kembali apakah kata kunci yang Anda pertimbangkan cocok dengan situs Anda.
+
+Meskipun Anda tidak menjual bubuk teh hijau (hanya teh celup), Anda mungkin dapat membuat halaman kategori seputar istilah ini… dan mengonversi para pencari tersebut ke apa yang sebenarnya dijual oleh situs Anda.
+
+Tapi itu sulit untuk dilakukan. Itu sebabnya saya sarankan untuk memperluas ke kategori produk lain SETELAH Anda menggunakan kata kunci yang dicari oleh pelanggan target Anda.
+
+Meskipun kata kunci tersebut mungkin mendapatkan lebih sedikit penelusuran, sebaiknya pilih kata kunci yang jauh lebih bertarget ke bisnis Anda, seperti “teh hijau online”.
+
+
+Sekarang setelah Anda memiliki daftar kata kunci yang dicari orang (dan cocok dengan produk situs Anda), inilah saatnya untuk melihat apakah para pencari ini siap mengeluarkan kartu kredit mereka dan melakukan pembelian.
+
+
+#3: Niat Komersial
+
+“Persaingan” mencerminkan berapa banyak orang yang menawar kata kunci tersebut di Google Ads. 
+
+yang mana secara umum, jika banyak orang menawar kata kunci, ada uang yang bisa dihasilkan. 
+
+Itu sebabnya, ketika datang ke SEO untuk situs web e-niaga, saya sarankan untuk tetap menggunakan kata kunci persaingan "sedang" dan "tinggi".
+
+kata kunci dengan tawaran yang disarankan tinggi juga lebih kompetitif untuk mendapatkan peringkat di pencarian Google. Tapi kita akan membahasnya di bagian selanjutnya.
+
+Seperti yang Anda lihat dalam contoh ini, kata kunci “teh hijau Jepang” memiliki tawaran yang disarankan sebesar $2,20. Teh hijau Jepang – Tawaran kata kunci
+
+Itu karena banyak orang yang mencari kata kunci tersebut mungkin belum siap untuk melakukan pembelian.
+
+Mereka mungkin mencari definisi. Atau mereka mungkin ingin tahu tentang manfaat kesehatan dari teh hijau.
+
+Di sisi lain, kata kunci serupa seperti “beli teh hijau secara online” memiliki tawaran yang disarankan yaitu 2,4x lebih tinggi.
+
+#4 Kompetisi 
+
+Semakin tinggi angka itu, semakin sulit untuk menentukan peringkat kata kunci itu di Google.
+
+
+== PENARGETAN KATA KUNCI DAN PENGOPTIMALAN HALAMAN
+
+Jika halaman di 10 teratas hanya semi-terkait dengan kata kunci itu, Anda terkadang dapat mengungguli mereka dengan halaman yang sangat bertarget.
+
+Sebagai contoh:
+
+Jika Anda mencari "papan potong bambu dengan pegangan", Anda akan melihat bahwa beberapa hasil tidak dioptimalkan di sekitar istilah khusus ini:
+
+Dengan kata lain: kebanyakan orang yang mencari kata kunci ini mungkin bertanya-tanya: “Di mana menanganinya?”.
+
+Jadi, jika Anda mengoptimalkan salah satu halaman kategori e-niaga di sekitar kata kunci “papan potong bambu dengan pegangan”, Anda akan memiliki kesempatan yang baik untuk memecahkan 10 besar.
